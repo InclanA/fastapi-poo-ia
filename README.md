@@ -32,4 +32,4 @@ PUT  Actualiza un componente por ID.
 DELETE Elimina un componente por ID.  
 
 
-Use la IA pa que me ayudara con los errores y pa dejar el código mucho mejor de lo que yo lo hago solo.
+Use la IA pa que me ayudara con los errores y para dejar el código mucho mejor de lo que yo lo hago solo.
